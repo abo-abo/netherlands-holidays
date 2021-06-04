@@ -38,7 +38,7 @@
 
 ;;;###autoload
 (defvar holiday-netherlands-holidays
-  '((holiday-fixed 1 1 "Niewjaar")
+  '((holiday-fixed 1 1 "Nieuwjaarsdag")
     (holiday-easter-etc -2 "Goede Vrijdag")
     (holiday-easter-etc 0 "Paasdag")
     (holiday-easter-etc 1 "Tweede Paasdag")
